@@ -1,0 +1,12 @@
+print("hello worls")
+# basic knowledge of python 
+
+a = int(input())
+b = int(input())
+d = 3
+c = a+b 
+print(c)
+if c>3:
+print("true")
+else:
+print("false")
